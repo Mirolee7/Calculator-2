@@ -1,8 +1,8 @@
-from calculator.addition.add import add
-from calculator.subtraction.subtract import subtract
-from calculator.multiplication.multiply import multiply
-from calculator.division.divide import divide
-from calculator.checkers.is_even_is_odd import is_even_odd
+from addition.add import add
+from subtraction.subtract import subtract
+from multiplication.multiply import multiply
+from division.divide import divide
+from checkers.is_even_is_odd import is_even_odd
 
 
 print(add(1,2))
